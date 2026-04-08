@@ -1,0 +1,5 @@
+{
+  "name": "Word Skudoo",
+  "description": "A challenging word-based Sudoku puzzle game. Fill the grid with letters from a 9-letter word so that every row, column, and 3x3 subgrid contains all unique letters.",
+  "requestFramePermissions": []
+}
